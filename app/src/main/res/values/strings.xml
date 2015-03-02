@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VolleyPlusExtension</string>
+    <string name="title_local">Read from local</string>
+    <string name="title_strategy">Read Strategy</string>
+    <string name="title_about">About Me</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="read_local">Read data from json file</string>
+    <string name="read_local_tip">(just for develop before server developed)</string>
+    <string name="read_cache">cache only</string>
+    <string name="read_cache_network">cache before network</string>
+    <string name="read_network">network only</string>
+    <string name="read_network_cache">network before cache</string>
+
+</resources>
