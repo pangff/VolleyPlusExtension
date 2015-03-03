@@ -15,8 +15,6 @@ RequestQueue queue ＝ Volley.newRequestQueue(getApplicationContext(),localStack
 ##支持自定义请求策略##
 
 ###只读缓存###
-
-使用方法
 ```java
 request.setRequestType(StrategyRequest.RequestType.CACHE);
 RequestHelper.getInstance().doRequest(queue,request);
